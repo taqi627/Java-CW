@@ -1,5 +1,8 @@
 import java.util.*;
 
+/***
+*****Simple arithematic and statistics calculator****
+*/
 
 interface SimpleOperations
 {
